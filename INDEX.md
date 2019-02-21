@@ -22,4 +22,4 @@
 ## 兴趣爱好
 >喜欢打羽毛球、爬山、看电影。
 
-![风景](https://vibrantbyte.github.io/IMG_0461.JPG)
+![风景](https://vibrantbyte.github.io/me.png)

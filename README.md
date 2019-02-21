@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 苏超
 
-You can use the [editor on GitHub](https://github.com/vibrantbyte/vibrantbyte.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**男 | 8年工作经验 | 1987年8月 | 河北农业大学**
+>现居于北京市-海淀区 | 河北-保定
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>E-mail：codingrun@163.com
 
-### Markdown
+>git：[github.com/vibrantbyte](https://github.com/vibrantbyte/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 工作领域
+>服务器端开发、分布式电商系统、分布式架构、高并发处理、系统CI CD & CD，主要精通`java` \ `golang` \ `lua`.
 
-```markdown
-Syntax highlighted code block
+## 曾就职单位
+>瑞祥装饰
 
-# Header 1
-## Header 2
-### Header 3
+>酒仙网 ([www.jiuxian.com](https://www.jiuxian.com/))
 
-- Bulleted
-- List
+>国美在线 ([www.gome.com.cn](https://www.gome.com.cn/))
 
-1. Numbered
-2. List
+>汽车之家 ([www.gome.com.cn](https://www.autohome.com.cn/))
 
-**Bold** and _Italic_ and `Code` text
+## 兴趣爱好
+>喜欢打羽毛球、爬山、看电影。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vibrantbyte/vibrantbyte.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![风景](https://vibrantbyte.github.io/me.png)
