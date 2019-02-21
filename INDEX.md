@@ -5,10 +5,10 @@
 
 >E-mail：codingrun@163.com
 
->git：github.com/vibrantbyte
+>git：[github.com/vibrantbyte](https://github.com/vibrantbyte/)
 
 ## 工作领域
->服务器端开发、分布式电商系统、分布式架构、高并发处理、系统CI CD & CD，主要精通java\golang\lua.
+>服务器端开发、分布式电商系统、分布式架构、高并发处理、系统CI CD & CD，主要精通`java` \ `golang` \ `lua`.
 
 ## 曾就职单位
 >瑞祥装饰
@@ -22,4 +22,4 @@
 ## 兴趣爱好
 >喜欢打羽毛球、爬山、看电影。
 
-![风景]()
+![风景](https://vibrantbyte.github.io/IMG_0461.JPG)
