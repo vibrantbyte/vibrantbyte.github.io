@@ -22,7 +22,7 @@
 
 >国美在线 ([www.gome.com.cn](https://www.gome.com.cn/))
 
->汽车之家 ([www.gome.com.cn](https://www.autohome.com.cn/))
+>汽车之家 ([www.autohome.com.cn](https://www.autohome.com.cn/))
 
 ## 兴趣爱好
 >喜欢打羽毛球、爬山、读书、看电影。
