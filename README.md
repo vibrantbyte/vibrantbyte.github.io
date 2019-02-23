@@ -7,7 +7,7 @@
 
 >git：[github.com/vibrantbyte](https://github.com/vibrantbyte/)
 
->my blog:[segmentfault.com/u/cafebabe](https://segmentfault.com/u/cafebabe/articles)
+>blog:[segmentfault.com/u/cafebabe](https://segmentfault.com/u/cafebabe/articles)
 
 ## 工作领域
 >服务器端开发、分布式电商系统、分布式架构、高并发处理、系统CI CD & CD，主要精通`java` \ `golang` \ `lua`.
